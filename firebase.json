@@ -1,7 +1,7 @@
 {
   "hosting": {
-    "site": "ssheikh-resume",
-    "public": "build",
+    "site": "ssheikh-fire",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
