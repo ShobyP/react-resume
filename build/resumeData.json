@@ -1,8 +1,8 @@
 {
   "main": {
     "name":"Shoaib Sheikh",
-    "occupation":"Full Stack Software Engineer",
-    "description":" with Active Top Secret Clearance. I am a highly analytical engineer who takes pride in his craft of writing clean, testable and maintainable code. I love to keep myself up to date by learning new technologies and industry best practices",
+    "occupation":"Software Engineer",
+    "description":" with an Active Top Secret Clearance. I am a highly analytical engineer who takes pride in his craft of writing clean, testable and maintainable code. I love to keep myself up to date by learning new technologies and industry best practices",
     "bio":"I am a software engineers who loves to get challenged. I love solving difficult problems and help my team overcome obstacles. I love to keep my team's performance at top notch by keep myself up to date with technologies myself as well as mentoring/guiding other team members to join me in my journey. I enjoy working in a full stack development environment, which allows me to use my full spectrum of skills that includes: Java, JS, React, Redux, SpringBoot and cloud technologies like PCF, FireBase and AWS.",
     "contactmessage":"If you are interested in knowing more about the kind of work that excited me the most, please don't hesitate to contact me.",
     "email": "sheikh.a.shoaib@gmail.com",
@@ -40,10 +40,16 @@
     ],
     "work":[
       {
+        "company":"Booz Allen Hamilton",
+        "title":"Senior Software Engineer",
+        "years":"Dec 2020 - Present",
+        "description":"Working as a Senior Software Engineer, supporting sensitive and open source projects for high profile customers like US Airforce and Veteran Affairs."
+      },
+      {
         "company":"KesselRun (USAF)",
         "title":"Senior Software Engineer",
-        "years":"May 2019 - Present",
-        "description":"Working as a Software Engineer in an Agile XP environment, leveraging TDD, Pair programming and UCD to support various KesselRun Teams to meet mission-critical goals of US Air force. My tech Stack at KesselRun includes: Java, Javascript, React, Redux, SpringBoot, MariaDB, Pivotal Cloud Foundry, Pivotal Concourse, Docker, Fortify, ThreadFix and Gitlab."
+        "years":"May 2019 - Dec 2020",
+        "description":"Worked as a Software Engineer in an Agile XP environment, leveraging TDD, Pair programming and UCD to support various KesselRun Teams to meet mission-critical goals of US Air force. My tech Stack at KesselRun includes: Java, Javascript, React, Redux, SpringBoot, MariaDB, Pivotal Cloud Foundry, Pivotal Concourse, Docker, Fortify, ThreadFix and Gitlab."
       },
       {
         "company":"Raytheon Company",
