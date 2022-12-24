@@ -47,6 +47,12 @@ build/Release
 # Dependency directories
 node_modules/
 
+# build directory
+build/
+
+# intelliJ
+.idea
+
 # Optional npm cache directory
 .npm
 
