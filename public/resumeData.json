@@ -38,6 +38,14 @@
         "description":"Some of the highlights of FIU's Undergraduate Coursework includes Operating Systems, Databases, Algorithms, Programming Languages, Data mining, Computer Architecture and Software Engineering."
       }
     ],
+    "certifications":[
+      {
+        "certification":"CompTIA Security+ ce",
+        "issuedBy":"CompTIA",
+        "validity":"Mar 2022 - Mar 2025",
+        "credly": "https://www.credly.com/badges/18706b1a-5838-4a5d-b86b-9bf55721a7f8/public_url"
+      }
+    ],
     "work":[
       {
         "company":"Booz Allen Hamilton",
