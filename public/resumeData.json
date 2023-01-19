@@ -40,6 +40,12 @@
     ],
     "certifications":[
       {
+        "certification":"AWS Certified Solutions Architect – Associate",
+        "issuedBy":"Amazon Web Services",
+        "validity":"Jan 2023 - Jan 2026",
+        "credly": "https://www.credly.com/badges/90322bd3-8e65-4159-8720-2e0b071be999/public_url"
+      },
+      {
         "certification":"CompTIA Security+ ce",
         "issuedBy":"CompTIA",
         "validity":"Mar 2022 - Mar 2025",

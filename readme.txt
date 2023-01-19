@@ -7,9 +7,11 @@ firebase init (this step is not needed if firebase.json is already configured)
 example of firebase.json
 {
   "hosting": {
-    "site": "ssheikh-fire",
+    "site": "ssheikh-resume",
     "public": "build",
    }
 }
 
-firebase deploy --only hosting:ssheikh-fire
+Currently, just run the following command in windows cmd.
+configurtion will build the project and deploy it.
+firebase deploy --only hosting:ssheikh-resume
