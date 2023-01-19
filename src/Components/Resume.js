@@ -16,17 +16,7 @@ class Resume extends Component {
       //Certifications:
       var certifications = this.props.data.certifications.map(function(certification){
         return <div key={certification.certification}><h3>{certification.issuedBy}</h3>
-        <div style={{
-        display: "flex",
-        flexWrap: "wrap",
-        alignContent: "flex-start"
-      }}>
-        <i class="fa fa-2xs fa-fw fa-bolt" aria-hidden="true" style={{
-                 display: "flex",
-                 alignItems: "center",
-                 justifyContent: "center",
-                 height: "40px"
-        }}></i>
+        <div>
          <p className="info">{certification.certification} <div><em className="date">{certification.validity}</em></div>
         <div>
          <a href={certification.credly} target="_blank" className="link"><i className="fa fa-fw fa-external-link-square"  aria-hidden="true"></i>&nbsp; Credly Verification</a>
