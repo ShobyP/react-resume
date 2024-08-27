@@ -14,4 +14,4 @@ example of firebase.json
 
 Currently, just run the following command in windows cmd.
 configurtion will build the project and deploy it.
-firebase deploy --only hosting:ssheikh-resume
+firebase deploy --only hosting:resume-ssheikh
