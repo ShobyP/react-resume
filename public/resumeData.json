@@ -53,11 +53,18 @@
       }
     ],
     "work":[
+      
+      {
+        "company":"CACI International",
+        "title":"Senior Software Engineer",
+        "years":"Oct 2023 - Present",
+        "description":"Working as a Lead Software Engineer, supporting various mission critical applications for U.S. Customs and Border Protection (CBP)."
+      },
       {
         "company":"Booz Allen Hamilton",
         "title":"Senior Software Engineer",
-        "years":"Dec 2020 - Present",
-        "description":"Working as a Senior Software Engineer, supporting sensitive and open source projects for high profile customers like US Airforce and Veteran Affairs."
+        "years":"Dec 2020 - Oct 2023",
+        "description":"Worked as a Senior Software Engineer, supporting sensitive and open source projects for high profile customers like US Airforce and Veteran Affairs."
       },
       {
         "company":"KesselRun (USAF)",
@@ -130,6 +137,12 @@
         "url":"https://picpallet.web.app/"
       },
       {
+        "title":"Code Doctor",
+        "category":"A ChatGPT-like interactive app for coding assistance using facebook's llama model.",
+        "image":"Code-Doctor.png",
+        "url":"https://github.com/ShobyP/code-doctor-python"
+      },
+      {
         "title":"LlamaTheNerd Portfolio Application",
         "category":"Front End Application based on: JS, React, Redux, Bootstrap, etc",
         "image":"llamaTheNerd.png",
@@ -147,7 +160,6 @@
         "image":"TDD.jpg",
         "url":"https://github.com/ShobyP/testing_with_react"
       },
-
       {
         "title":"AI/ML Projects",
         "category":"Host of Data Science Projects in Python, covering: CV/RV, KNN, IR, Predictions, Rec Systems amd many more.",
