@@ -5,7 +5,11 @@ class Resume extends Component {
 
     if(this.props.data){
       var skillmessage = this.props.data.skillmessage;
+<<<<<<< HEAD
       
+=======
+
+>>>>>>> resumeUpdate-0125
       //Education:
       var education = this.props.data.education.map(function(education){
         return <div key={education.school}><h3>{education.school}</h3>

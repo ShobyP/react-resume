@@ -1,6 +1,11 @@
 {
   "hosting": {
+<<<<<<< HEAD
     "public": "public",
+=======
+    "site": "resume-ssheikh",
+    "public": "build",
+>>>>>>> resumeUpdate-0125
     "ignore": [
       "firebase.json",
       "**/.*",
