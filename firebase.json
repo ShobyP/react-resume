@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "ssheikh-resume",
+    "site": "resume-ssheikh",
     "public": "build",
     "ignore": [
       "firebase.json",

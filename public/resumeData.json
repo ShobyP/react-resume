@@ -2,16 +2,16 @@
   "main": {
     "name":"Shoaib Sheikh",
     "occupation":"Software Engineer",
-    "description":" with an Active Top Secret Clearance. I am a highly analytical engineer who takes pride in his craft of writing clean, testable and maintainable code. I love to keep myself up to date by learning new technologies and industry best practices",
-    "bio":"I am a software engineers who loves to get challenged. I love solving difficult problems and help my team overcome obstacles. I love to keep my team's performance at top notch by keep myself up to date with technologies myself as well as mentoring/guiding other team members to join me in my journey. I enjoy working in a full stack development environment, which allows me to use my full spectrum of skills that includes: Java, JS, React, Redux, SpringBoot and cloud technologies like PCF, FireBase and AWS.",
+    "description":" I have an Active Top Secret Clearance and possess strong analytical skills. I am dedicated to producing clean, testable, and maintainable code, and take pride in my profession. Additionally, I am committed to staying current with new technologies and industry best practices through ongoing education and training.",
+    "bio":" As a software engineer with over 10 years of experience, I have a proven track record of delivering high-quality software solutions for both defence and public sector organizations. With a top secret clearance and extensive experience working with sensitive information, I am well-equipped to handle projects that require a high level of confidentiality and security. I have expertise in full stack technologies, including Springboot, React, and various databases, as well as experience working with AWS cloud. I am also a strong proponent of open source contributions, and have actively participated in various open source projects throughout my career. I am a highly motivated and proactive team player, with a passion for continuously learning and staying up-to-date with the latest technologies and best practices. Thank you for considering my profile. I look forward to connecting with you and discussing potential opportunities to work together.",
     "contactmessage":"If you are interested in knowing more about the kind of work that excited me the most, please don't hesitate to contact me.",
     "email": "sheikh.a.shoaib@gmail.com",
     "phone": "786-554-9310",
     "address":{
-      "street":"110 Kingston Street",
-      "city":"Boston",
-      "state":"massachusetts",
-      "zip": "01845"
+      "street":"21707 Lozar Dr",
+      "city":"Houston",
+      "state":"Texas",
+      "zip": "77379"
     },
     "website": "https://ssheikh-portfolio.web.app/",
     "resumedownload":"https://ssheikh-portfolio.web.app/resume",
@@ -38,11 +38,31 @@
         "description":"Some of the highlights of FIU's Undergraduate Coursework includes Operating Systems, Databases, Algorithms, Programming Languages, Data mining, Computer Architecture and Software Engineering."
       }
     ],
+    "certifications":[
+      {
+        "certification":"AWS Solutions Architect – Associate",
+        "issuedBy":"Amazon Web Services",
+        "validity":"Jan 2023 - Jan 2026",
+        "credly": "https://www.credly.com/badges/90322bd3-8e65-4159-8720-2e0b071be999/public_url"
+      },
+      {
+        "certification":"CompTIA Security+ ce",
+        "issuedBy":"CompTIA",
+        "validity":"Mar 2022 - Mar 2025",
+        "credly": "https://www.credly.com/badges/18706b1a-5838-4a5d-b86b-9bf55721a7f8/public_url"
+      }
+    ],
     "work":[
+      {
+        "company":"CACI International",
+        "title":"Senior Software Engineer",
+        "years":"Oct 2023 - Present",
+        "description":"Working as a Lead Software Engineer, supporting various mission critical applications for U.S. Customs and Border Protection (CBP)."
+      },
       {
         "company":"Booz Allen Hamilton",
         "title":"Senior Software Engineer",
-        "years":"Dec 2020 - Present",
+        "years":"Dec 2020 - Oct 2023",
         "description":"Working as a Senior Software Engineer, supporting sensitive and open source projects for high profile customers like US Airforce and Veteran Affairs."
       },
       {
