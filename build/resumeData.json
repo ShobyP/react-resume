@@ -130,6 +130,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Code Doctor",
+        "category":"A ChatGPT-like interactive app for coding assistance using facebook's llama model.",
+        "image":"Code-Doctor.png",
+        "url":"https://github.com/ShobyP/code-doctor-python"
+      },
+      {
         "title":"PicPallet",
         "category":"React/Firebase Full stack image uploading service",
         "image":"picpallet.png",
